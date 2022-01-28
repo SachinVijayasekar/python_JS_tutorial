@@ -13,7 +13,7 @@ body {
 
 .content-wrapper {
     position: relative;
-    overflow: hidden;
+    overflow: auto;
     height: 100vh;
 }
 
@@ -57,7 +57,7 @@ header .menu .cross {
     position: relative;
     width: 100%;
     height: calc(100vh - 80px);
-    background-image: url(https://wallpaperaccess.com/full/4689415.png);
+    background-image: url(https://i.pinimg.com/originals/5d/74/0d/5d740d011dab6ba9243dcc3670f0bf82.jpg);
     background-size: cover;
     color: white;
     display: flex;
