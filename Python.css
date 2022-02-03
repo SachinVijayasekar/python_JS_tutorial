@@ -87,3 +87,15 @@ header .menu .cross {
     margin-top: 0.4cm;
     margin-left: 0.4cm;
 }
+
+.Constants {
+    text-decoration: none;
+    color: #FFFFFF;
+    display: block;
+}
+
+.Constants :hover {
+    text-decoration: none;
+    color: #000000;
+    background-color: #4d8599;
+}
